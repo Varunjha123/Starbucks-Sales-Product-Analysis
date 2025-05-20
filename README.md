@@ -26,4 +26,4 @@ Once the data was cleaned and structured, I visualized it using Power BI to crea
 Would love to hear your feedback or suggestions!
 Link-https://github.com/Varunjha123/Starbucks-Sales-Product-Analysis
 
-#SQL #PowerBI #DataAnalytics #StarbucksProject #MSQLServer #BusinessIntelligence #DashboardDesign #WomenInTech
+#SQL #PowerBI #DataAnalytics #StarbucksProject #MSQLServer #BusinessIntelligence #DashboardDesign 
